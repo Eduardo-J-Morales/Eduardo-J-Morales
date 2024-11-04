@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eduardo Morales and I'm a Full Stack Sofware and Web Developer, from ....</h2>
+<h2 align="left">Hi 👋! My name is Eduardo Morales and I'm a Full Stack Sofware and Web Developer, from Venezuela</h2>
 
 ###
 
