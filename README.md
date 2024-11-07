@@ -9,22 +9,19 @@
 
 - 🌱 I’m currently learning **solidjs, shadcn, react-query and remix**
 
-- 👯 I’m looking to collaborate on **anything as long as it seems interesting to me**
+- 👯 I’m looking to collaborate on **anything, as long as it seems interesting to me**
 
-- 🤝 I’m looking for help with **any project of mine, if you have some spare time go ahead**
+- 🤝 I’m looking for help with **any project of mine, if you have some spare time, go ahead**
 
-- 👨‍💻 All of my projects are available at [Netlify](Netlify)
+- 👨‍💻 All of my projects are available at:
 
-- 📝 I regularly write articles on [nowhere](nowhere)
+- 
 
-- 💬 Ask me about **anything interesting (related to programming obvious)**
+- 💬 Ask me about **anything interesting (related to programming obviously)**
 
 - 📫 How to reach me **eduardojosegonzalezmorales@hotmail.com**
 
-- 📄 Know about my experiences [each of my project is an experience (not to have laboral experience doesn't mean not to have experience at all)](each of my project is an experience (not to have laboral experience doesn't mean not to have experience at all))
-
 - ⚡ Fun fact **Chat with me and you'll realize that I'm one of the most interesting guy you'll ever know**
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-j-morales&show_icons=true&locale=en" alt="eduardo-j-morales" /></p>
 
