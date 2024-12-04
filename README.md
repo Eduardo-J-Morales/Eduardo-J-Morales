@@ -22,7 +22,6 @@ I'm a passionate junior full-stack developer from Venezuela, focusing on JavaScr
 ---
 *This portfolio is a growing collection of my web development journey. While I may be junior in professional experience, I'm senior in enthusiasm and dedication to learning!*
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-j-morales&show_icons=true&locale=en" alt="eduardo-j-morales" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-j-morales&" alt="eduardo-j-morales" /></p>
