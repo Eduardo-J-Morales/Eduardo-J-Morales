@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Eduardo J. Morales</h1>
-<h3 align="center">A passionate full stack developer from Venezuela</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-j-morales&label=Profile%20views&color=0e75b6&style=flat" alt="eduardo-j-morales" /> </p>
+[English](README.md) | [Español](./lang/README.es.md) | [Português](./lang/README.pt.md) | [Français](./lang/README.fr.md) | [Deutsch](./lang/README.de.md) | [中文](./lang/README.zh.md) | [日本語](./lang/README.jp.md)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardo-j-morales" alt="eduardo-j-morales" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **genai-food-suggester**
+## Welcome to My Developer Journey! 👋
 
-- 🌱 I’m currently learning **solidjs, shadcn, react-query and remix**
+I'm a passionate junior full-stack developer from Venezuela, focusing on JavaScript and Python ecosystems. While I'm at the beginning of my professional journey, I've dedicated three years to mastering modern web development frameworks and technologies.
 
-- 👯 I’m looking to collaborate on **anything, as long as it seems interesting to me**
+### 🛠 Technical Skills
+- **Frontend**: React.js, Vue.js, Angular, HTML5/CSS3, JavaScript/TypeScript
+- **Backend**: Node.js, Python, Django, Flask, Express.js
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Git, Docker, AWS Basics
 
-- 🤝 I’m looking for help with **any project of mine, if you have some spare time, go ahead**
+### 📫 Contact
+- LinkedIn:  <a href="https://www.linkedin.com/in/eduardo-gonzalez-31102926b/" >https://www.linkedin.com/in/eduardo-gonzalez-31102926b/</a>
+- Email:  <a href="mailto:eduardojgmorales@hotmail.com">eduardojgmorales@hotmail.com</a>
+- Portfolio:  <a href="https://eduardo-morales-76e79-24b67.web.app/">https://eduardo-morales-76e79-24b67.web.app/</a>
 
-- 👨‍💻 All of my projects are available at:
+---
+*This portfolio is a growing collection of my web development journey. While I may be junior in professional experience, I'm senior in enthusiasm and dedication to learning!*
 
-- 
-
-- 💬 Ask me about **anything interesting (related to programming obviously)**
-
-- 📫 How to reach me **eduardojosegonzalezmorales@hotmail.com**
-
-- ⚡ Fun fact **Chat with me and you'll realize that I'm one of the most interesting guy you'll ever know**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-j-morales&show_icons=true&locale=en" alt="eduardo-j-morales" /></p>
 
