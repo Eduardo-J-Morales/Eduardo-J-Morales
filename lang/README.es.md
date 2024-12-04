@@ -23,3 +23,7 @@ Soy un apasionado desarrollador full-stack junior de Venezuela, enfocado en los 
 
 ---
 *Este portafolio es una colección creciente de mi trayectoria en el desarrollo web. ¡Aunque pueda ser junior en experiencia profesional, soy senior en entusiasmo y dedicación por aprender!*
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-j-morales&show_icons=true&locale=en" alt="eduardo-j-morales" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-j-morales&" alt="eduardo-j-morales" /></p>
