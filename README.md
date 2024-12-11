@@ -24,4 +24,4 @@ I'm a passionate junior full-stack developer from Venezuela, focusing on JavaScr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-j-morales&show_icons=true&locale=en" alt="eduardo-j-morales" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-j-morales&" alt="eduardo-j-morales" /></p>
+
