@@ -53,7 +53,7 @@ Programming Languages <br/>
 Frontend Frameworks & Libraries <br/>
   React<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><br/>
-  Vue.js
+  Vue.js<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  /><br/>
   Nuxt.js<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  /><br/>
