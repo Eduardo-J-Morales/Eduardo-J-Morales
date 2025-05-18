@@ -1,35 +1,14 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-          <div className="text-content">
-          <p className="intro">
-            Hello! I'm Eduardo Morales, a full-stack developer passionate about creating solutions. I've always been one of those people who gets excited when finding answers to seemingly unsolvable problems, and I'm deeply aware of the importance of delivering exceptional digital experiences.
-          </p>
-
-          <p>
-            My journey began as a systems engineering student in 2018, when I truly realized the potential of computers. You have no idea how bad I felt discovering what a PC could really do - a device I'd only used for video games and basic college work. That's when I decided I wouldn't waste another day. Alongside my university studies, I threw myself into learning programming, which quickly became my greatest passion in tech.
-          </p>
-
-          <p>
-            After countless months and lines of code, I'm proud to say I've gained experience I never imagined possible. Today I master diverse skills to create graphical interfaces, RESTful/GraphQL APIs, AI models, and both SQL/NoSQL databases. I've learned to connect these elements fluidly across multiple programming languages - or query languages in databases' case.
-          </p>
-
-          <p>
-            For me, programming isn't just a profession - it's what I love most in life.
-          </p>
-
-          <p>
-            What truly excites me is <span className="highlight">designing solutions that cover every aspect of an application</span>. Whether it's <span className="highlight">crafting efficient database structures</span> or <span className="highlight">building responsive front-end components</span>, I thrive on every stage of development.
-          </p>
-
-          <p>
-            My work with <span className="highlight">cloud platforms and DevOps tools</span> has taught me how to <span className="highlight">build and deploy rock-solid applications</span>. I obsess over <span className="highlight">secure, maintainable code</span> and <span className="highlight">squeezing out every drop of performance</span>.
-          </p>
-
-          <p className="hobbies">
-            When I'm not coding, you'll find me <span className="highlight">studying daily to level up my skills</span> or <span className="highlight">pushing new projects to GitHub</span> - each one more professional than the last. I live by <span className="highlight">continuous learning</span> and believe true mastery comes from <span className="highlight">understanding every layer of the stack</span>.
-          </p>
-        </div>
+  <div className="text-content">
+    <p className="intro">Hello! I'm Eduardo Morales, a full-stack developer passionate about creating solutions. I've always been one of those people who gets excited when finding answers to seemingly unsolvable problems, and I'm deeply aware of the importance of delivering exceptional digital experiences.</p>
+    <p>My journey began as a systems engineering student in 2018, when I truly realized the potential of computers. You have no idea how bad I felt discovering what a PC could really do - a device I'd only used for video games and basic college work. That's when I decided I wouldn't waste another day. Alongside my university studies, I threw myself into learning programming, which quickly became my greatest passion in tech.</p>
+    <p>After countless months and lines of code, I'm proud to say I've gained experience I never imagined possible. Today I master diverse skills to create graphical interfaces, RESTful/GraphQL APIs, AI models, and both SQL/NoSQL databases. I've learned to connect these elements fluidly across multiple programming languages - or query languages in databases' case.</p>
+    <p>For me, programming isn't just a profession - it's what I love most in life.</p>
+    <p>What truly excites me is <span className="highlight">designing solutions that cover every aspect of an application</span>. Whether it's <span className="highlight">crafting efficient database structures</span> or <span className="highlight">building responsive front-end components</span>, I thrive on every stage of development.</p>
+    <p>My work with <span className="highlight">cloud platforms and DevOps tools</span> has taught me how to <span className="highlight">build and deploy rock-solid applications</span>. I obsess over <span className="highlight">secure, maintainable code</span> and <span className="highlight">squeezing out every drop of performance</span>.</p>
+    <p className="hobbies">When I'm not coding, you'll find me <span className="highlight">studying daily to level up my skills</span> or <span className="highlight">pushing new projects to GitHub</span> - each one more professional than the last. I live by <span className="highlight">continuous learning</span> and believe true mastery comes from <span className="highlight">understanding every layer of the stack</span>.</p>
+</div>
 </div>
 
 ###
