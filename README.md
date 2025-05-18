@@ -36,9 +36,9 @@
 
 ###
 Programming Languages <br/>
-  JavaScript
+  JavaScript<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><br/>
-  TypeScript
+  TypeScript<br/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /><br/>
   Python<br/>
