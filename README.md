@@ -35,7 +35,91 @@
 <h3 align="left">🛠 Language and tools that I usually use:</h3>
 
 ###
-
+Programming Languages
+!Python
+!JavaScript
+!TypeScript
+!PHP
+!C#
+Frontend Frameworks & Libraries
+!React
+!Vue.js
+!Nuxt.js
+!Angular
+!Next.js
+!Svelte
+!Bootstrap
+!TailwindCSS
+!Redux
+!Vuetify
+!D3.js
+!JQuery
+Backend Frameworks & Libraries
+!Node.js
+!Express
+!NestJS
+!Django
+!Flask
+!FastAPI
+!Laravel
+!GraphQL
+!Socket.io
+!Sequelize
+!SQLAlchemy
+Databases
+!MySQL
+!MongoDB
+!SQLite
+!Redis
+!Oracle
+DevOps & Cloud
+!Docker
+!Kubernetes
+!Nginx
+!Heroku
+!AWS
+!Firebase
+Testing & CI/CD
+!Jest
+!ESLint
+!Selenium
+!GitLab
+Data Science & Machine Learning
+!Pandas
+!Numpy
+!Jupyter
+!PyTorch
+!TensorFlow
+!OpenCV
+Operating Systems & Tools
+!Linux
+!Ubuntu
+!Debian
+!CentOS
+!Fedora
+!NixOS
+!Bash
+!Vim
+!VSCode
+!WebStorm
+!PyCharm
+Other Tools & Platforms
+!Git
+!GitHub
+!Composer
+!NPM
+!Yarn
+!Figma
+!Canva
+!Trello
+!Slack
+!Chrome
+!Firefox
+!Opera
+!IE10
+!Markdown
+!WordPress
+!CodePen
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
   <img width="12" />
