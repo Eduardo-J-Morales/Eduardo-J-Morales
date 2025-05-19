@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
