@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a  href="https://discord.com/users/" target="_blank" rel="noopener noreferrer">
+  <a style="border:none; outline:none;" href="https://discord.com/users/" target="_blank" rel="noopener noreferrer">
     <img style="border:none; outline:none;" style="text-decoration: none;" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer">
